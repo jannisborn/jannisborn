@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/skjerns">
+<a href="https://github.com/jannisborn">
   <!-- Reference: https://github.com/anuraghazra/github-readme-stats -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jannisborn&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&show=reviews" alt="Jannis' github stats" />
 </a>
