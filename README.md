@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-![Jannis' GitHub stats](https://github-readme-stats.vercel.app/api?username=jannisborn&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true&show=reviews)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannisborn&hide_progress=false&size_weight=0&count_weight=1&hide=jupyter%20notebook,matlab&layout=compact&theme=chartreuse-dark)
+![GitHub Card](https://githubcard.com/jannisborn.svg?d=xAtzuxBZ)
 
 
 You can reach me also here:
